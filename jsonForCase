@@ -1,0 +1,24 @@
+[{
+		"BRAND": "2",
+		"TIMER": "415",
+		"ProductName": "Skate Board",
+		"GraphicName": "SkateBoard",
+		"CostPrice": "100",
+		"MSRP": "16",
+		"QtyOnHand": "11",
+		"QtnOnOrder": "213",
+		"Description": "A skate board designed by Tony Hawk and will allow for massive grip due to the power of the Gorilla GripTM"
+	},
+	{
+		"BRAND": "1",
+		"TIMER": "41",
+		"ProductName": "Surf Board",
+		"GraphicName": "SurfBoard",
+		"CostPrice": "120",
+		"MSRP": "14",
+		"QtyOnHand": "14",
+		"QtnOnOrder": "242",
+		"Description": "Wonderful board to take on the powerful waves that you might meet!"
+
+	}
+]

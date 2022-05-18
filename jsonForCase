@@ -1,8 +1,7 @@
 [{
-		"BRAND": "2",
-		"TIMER": "415",
+		"BRAND": "TSM",
 		"ProductName": "Skate Board",
-		"GraphicName": "SkateBoard",
+		"GraphicName": "SkateBoardIMG.png",
 		"CostPrice": "100",
 		"MSRP": "16",
 		"QtyOnHand": "11",
@@ -10,15 +9,25 @@
 		"Description": "A skate board designed by Tony Hawk and will allow for massive grip due to the power of the Gorilla GripTM"
 	},
 	{
-		"BRAND": "1",
-		"TIMER": "41",
+		"BRAND": "YOLO",
 		"ProductName": "Surf Board",
-		"GraphicName": "SurfBoard",
+		"GraphicName": "SurfBoardIMG.png",
 		"CostPrice": "120",
 		"MSRP": "14",
 		"QtyOnHand": "14",
 		"QtyOnOrder": "242",
 		"Description": "Wonderful board to take on the powerful waves that you might meet!"
+
+	},
+	{
+		"BRAND": "MONKEYS",
+		"ProductName": "Piano",
+		"GraphicName": "PianoIMG.png",
+		"CostPrice": "1234",
+		"MSRP": "1442",
+		"QtyOnHand": "2",
+		"QtyOnOrder": "52",
+		"Description": "Make amazing sounds to make your family mad!"
 
 	}
 ]

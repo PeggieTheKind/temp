@@ -3,9 +3,9 @@
 		"ProductName": "Skate Board",
 		"GraphicName": "SkateBoardIMG.png",
 		"CostPrice": "100",
-		"MSRP": "16",
-		"QtyOnHand": "11",
-		"QtyOnOrder": "213",
+		"MSRP": "509.99",
+		"QtyOnHand": "1",
+		"QtyOnOrder": "0",
 		"Description": "A skate board designed by Tony Hawk and will allow for massive grip due to the power of the Gorilla GripTM"
 	},
 	{
@@ -13,9 +13,9 @@
 		"ProductName": "Surf Board",
 		"GraphicName": "SurfBoardIMG.png",
 		"CostPrice": "120",
-		"MSRP": "14",
-		"QtyOnHand": "14",
-		"QtyOnOrder": "242",
+		"MSRP": "599.99",
+		"QtyOnHand": "1",
+		"QtyOnOrder": "0",
 		"Description": "Wonderful board to take on the powerful waves that you might meet!"
 
 	},
@@ -29,5 +29,85 @@
 		"QtyOnOrder": "52",
 		"Description": "Make amazing sounds to make your family mad!"
 
+	},
+	{
+		"BRAND": "MONKEYS",
+		"ProductName": "Guitar",
+		"GraphicName": "GuitarIMG.png",
+		"CostPrice": "32",
+		"MSRP": "12",
+		"QtyOnHand": "4",
+		"QtyOnOrder": "2",
+		"Description": "Make amazing sounds to make your family mad, WITH STRINGS!"
+
+	}
+	,
+	{
+		"BRAND": "TSM",
+		"ProductName": "KeyBoard",
+		"GraphicName": "KeyboardIMG.png",
+		"CostPrice": "22",
+		"MSRP": "132",
+		"QtyOnHand": "5",
+		"QtyOnOrder": "23",
+		"Description": "Allows for fast high impact performance for FPS games"
+
+	}
+	,
+	{
+		"BRAND": "YOLO",
+		"ProductName": "Jeep Liberty",
+		"GraphicName": "JL_IMG.png",
+		"CostPrice": "2002",
+		"MSRP": "132",
+		"QtyOnHand": "1",
+		"QtyOnOrder": "3",
+		"Description": "Used car to allow for transportation"
+
+	}
+	,
+	{
+		"BRAND": "YOLO",
+		"ProductName": "Tesla Mk1",
+		"GraphicName": "TM1_IMG.png",
+		"CostPrice": "20002",
+		"MSRP": "1302",
+		"QtyOnHand": "13",
+		"QtyOnOrder": "32",
+		"Description": "New electric car to allow for transportation"
+
+	}
+	,
+	{
+		"BRAND": "YOLO",
+		"ProductName": "Tesla Mk1",
+		"GraphicName": "TM1_IMG.png",
+		"CostPrice": "20002",
+		"MSRP": "1302",
+		"QtyOnHand": "13",
+		"QtyOnOrder": "32",
+		"Description": "New electric car to allow for transportation"
+
+	}
+	,
+	{
+		"BRAND": "TSM",
+		"ProductName": "Gaming Mouse",
+		"GraphicName": "GamingMouseIMG.png",
+		"CostPrice": "14",
+		"MSRP": "13",
+		"QtyOnHand": "131",
+		"QtyOnOrder": "213",
+		"Description": "A Gaming mouse to ensure victory!"
+	},
+	{
+		"BRAND": "TSM",
+		"ProductName": "Gaming HeadSet",
+		"GraphicName": "GamingHeadsetIMG.png",
+		"CostPrice": "144",
+		"MSRP": "132",
+		"QtyOnHand": "11",
+		"QtyOnOrder": "13",
+		"Description": "A Gaming head with a 5 hour Battery life to ensure you can hear your enemys, before they can see you!"
 	}
 ]
